@@ -46,5 +46,10 @@ and we press enter then we can see the next instruction and also we can see that
 ![fasto main100](https://user-images.githubusercontent.com/84865915/121396611-2d188080-c971-11eb-9f3b-c76e221118eb.JPG)
 
 ![each instruc100](https://user-images.githubusercontent.com/84865915/121396682-3d306000-c971-11eb-9794-761560598ba7.JPG)
+# day2
+## algorithm to rewrite c program using ASM language
+intially from the main program we will pass intial number and the final number
+# initialize
+
 
 
